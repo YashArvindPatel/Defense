@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d7afaa9d997f343ada32f7a6290b71, type: 3}
+  m_Name: Egglet
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3752284852124582411, guid: 512327115b160ae4c82c5aef8183dbf4, type: 3}
+  attackType: 0
+  targetType: 0
+  unitType: 0
+  icon: {fileID: 21300000, guid: 67e6e54457dac1d4fb23dcb9e3a6644b, type: 3}
+  attackSpeed: 0.35
+  attackRange: 1.1
+  attackDamage: 1.1
+  hitPoints: 12
+  speed: 1
+  goldDrop: 7
+  description: Small egg like creatures that haven't hatched yet, god knows into
+    what monstrosity

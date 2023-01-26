@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c20c577021f752c42b0fadf72b5f02d4, type: 3}
+  m_Name: Gun Turret
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2348237263860326638, guid: 0b42808ced7f05045aa1da05f055937a, type: 3}
+  bulletFire: {fileID: 148698, guid: 2a6c671eff9a71a418bd43aa8d6188d2, type: 3}
+  impactParticle: {fileID: 152634, guid: c816e04fdd948ef479558e37f6acc4ae, type: 3}
+  targetType: 0
+  icon: {fileID: 21300000, guid: c3c22189e19fdcb47bc6569fd160f89c, type: 3}
+  attackSpeed: 1.5
+  attackRange: 8
+  attackDamage: 1
+  atkSpeedRate: 0.06
+  atkRangeRate: 0.3
+  atkDamageRate: 0.12
+  arc: 0
+  siege: 0
+  tower: 0
+  cost: 175
+  unlockableLevel: 15
+  purchasePrice: 1500
+  exp: 0
+  description: Gun Turrets are a modernized take on the Cannon Turret, excelling
+    in every way imaginable
+  baseAttackSpeed: 1.5
+  baseAttackRange: 8
+  baseAttackDamage: 1
+  baseAtkSpeedRate: 0.06
+  baseAtkRangeRate: 0.3
+  baseAtkDamageRate: 0.12

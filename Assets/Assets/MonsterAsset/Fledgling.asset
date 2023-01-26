@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d7afaa9d997f343ada32f7a6290b71, type: 3}
+  m_Name: Fledgling
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7251180770084478840, guid: 5b9340c1048e4394680b0c0de900f80a, type: 3}
+  attackType: 0
+  targetType: 0
+  unitType: 0
+  icon: {fileID: 21300000, guid: dd466129ef997884e9935beb021914a6, type: 3}
+  attackSpeed: 1
+  attackRange: 1.75
+  attackDamage: 5
+  hitPoints: 100
+  speed: 2.85
+  goldDrop: 85
+  description: ' Just a small fledgling, hardly harmful, are these even monsters?'

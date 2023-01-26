@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d7afaa9d997f343ada32f7a6290b71, type: 3}
+  m_Name: Vamipre Bat
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6174304432357499873, guid: 0bb2d5ce8cd65d24a9e01f8c48370216, type: 3}
+  attackType: 1
+  targetType: 0
+  unitType: 1
+  icon: {fileID: 21300000, guid: 924203ab4d1c8a141ab1fec99bf1807a, type: 3}
+  attackSpeed: 1.75
+  attackRange: 8.5
+  attackDamage: 3.25
+  hitPoints: 100
+  speed: 2.7
+  goldDrop: 80
+  description: Bats after evolving have turned into blood thirsty vampire bats

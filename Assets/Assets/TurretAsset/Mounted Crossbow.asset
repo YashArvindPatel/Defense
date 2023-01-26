@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c20c577021f752c42b0fadf72b5f02d4, type: 3}
+  m_Name: Mounted Crossbow
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8516064370543764666, guid: c879a7373e698c645a9e5c57b9164d13, type: 3}
+  bulletFire: {fileID: 101806, guid: f8df35cfac5b6f14d8ddfa9b932dfe14, type: 3}
+  impactParticle: {fileID: 128324, guid: 4e110ae3c6c4a44438488f03e233bfe1, type: 3}
+  targetType: 1
+  icon: {fileID: 21300000, guid: ec761a82e6df92f4fbc51b3919849862, type: 3}
+  attackSpeed: 1
+  attackRange: 10
+  attackDamage: 1
+  atkSpeedRate: 0.05
+  atkRangeRate: 0.2
+  atkDamageRate: 0.1
+  arc: 0
+  siege: 0
+  tower: 0
+  specialPower: -1
+  cost: 100
+  unlockableLevel: 5
+  purchasePrice: 1000
+  exp: 0
+  description: Mounted Crossbows are the classic turrets you would want to place
+    to fend of air-borne monsters
+  baseAttackSpeed: 1
+  baseAttackRange: 10
+  baseAttackDamage: 1
+  baseAtkSpeedRate: 0.05
+  baseAtkRangeRate: 0.2
+  baseAtkDamageRate: 0.1

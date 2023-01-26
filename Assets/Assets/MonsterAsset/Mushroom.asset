@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d7afaa9d997f343ada32f7a6290b71, type: 3}
+  m_Name: Mushroom
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7532475916257268570, guid: b574afa01c129ee47a25ee65cd047fe0, type: 3}
+  attackType: 0
+  targetType: 0
+  unitType: 0
+  icon: {fileID: 21300000, guid: 9b13c8853d8ddee4da12bb9ef5b59237, type: 3}
+  attackSpeed: 0.3
+  attackRange: 1
+  attackDamage: 1
+  hitPoints: 10
+  speed: 1
+  goldDrop: 5
+  description: Small mushroom monsters that are commonly found in beginner levels

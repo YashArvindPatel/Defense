@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d7afaa9d997f343ada32f7a6290b71, type: 3}
+  m_Name: Spook
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 277276333156483279, guid: 5a2f3f5300bc60742acab91d36da517b, type: 3}
+  attackType: 1
+  targetType: 0
+  unitType: 0
+  icon: {fileID: 21300000, guid: 8598457e5e5ea0a47bcf15212ea77061, type: 3}
+  attackSpeed: 1.5
+  attackRange: 6
+  attackDamage: 5
+  hitPoints: 90
+  speed: 2.5
+  goldDrop: 65
+  description: Spooks are what these monsters give you when you confront one all
+    of a sudden

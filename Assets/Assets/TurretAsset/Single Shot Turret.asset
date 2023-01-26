@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c20c577021f752c42b0fadf72b5f02d4, type: 3}
+  m_Name: Single Shot Turret
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4493142211706725746, guid: c3d1087fab6e7bc43bd65a50d653236f, type: 3}
+  bulletFire: {fileID: 109530, guid: 8a30595d8f5ffe244b5b70512f0dc5fc, type: 3}
+  impactParticle: {fileID: 115286, guid: ec1c5863f61e8ff4a84dbdb8a282a7ac, type: 3}
+  targetType: 0
+  icon: {fileID: 21300000, guid: 22f3a44291a13084496a8d66358e0ae5, type: 3}
+  attackSpeed: 1.75
+  attackRange: 9
+  attackDamage: 1.1
+  atkSpeedRate: 0.12
+  atkRangeRate: 0.2
+  atkDamageRate: 0.1
+  arc: 0
+  siege: 0
+  tower: 0
+  cost: 225
+  unlockableLevel: 30
+  purchasePrice: 5500
+  exp: 0
+  description: Single Shot Turrets are useful for dealing with monsters that move
+    quickly due to its higher attack speed
+  baseAttackSpeed: 1.75
+  baseAttackRange: 9
+  baseAttackDamage: 1.1
+  baseAtkSpeedRate: 0.12
+  baseAtkRangeRate: 0.2
+  baseAtkDamageRate: 0.1

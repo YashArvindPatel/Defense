@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c20c577021f752c42b0fadf72b5f02d4, type: 3}
+  m_Name: Catapult Turret
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3322612407151612204, guid: e01e8ca27dc9e294cb26e90c52d11469, type: 3}
+  bulletFire: {fileID: 110298, guid: deec2987c8cae8c4a97dea31b6ddb2c5, type: 3}
+  impactParticle: {fileID: 128324, guid: 4e110ae3c6c4a44438488f03e233bfe1, type: 3}
+  targetType: 0
+  icon: {fileID: 21300000, guid: c21215a3ecb8469428797cb3f7a0f9a7, type: 3}
+  attackSpeed: 1
+  attackRange: 10
+  attackDamage: 1
+  atkSpeedRate: 0.05
+  atkRangeRate: 0.2
+  atkDamageRate: 0.1
+  arc: 1
+  siege: 0
+  tower: 0
+  specialPower: -1
+  cost: 100
+  unlockableLevel: 1
+  purchasePrice: 200
+  exp: 0
+  description: 'Catapult Turrets are basic units and the most reliable units to deal
+    consistent damage '
+  baseAttackSpeed: 1
+  baseAttackRange: 10
+  baseAttackDamage: 1
+  baseAtkSpeedRate: 0.05
+  baseAtkRangeRate: 0.2
+  baseAtkDamageRate: 0.1

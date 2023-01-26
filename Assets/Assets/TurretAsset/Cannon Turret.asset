@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c20c577021f752c42b0fadf72b5f02d4, type: 3}
+  m_Name: Cannon Turret
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6623702497010358740, guid: 809fea1a9d8d5414b919e3308a1f5b06, type: 3}
+  bulletFire: {fileID: 147436, guid: 3b671081e44be1c4aa4355e8ba6e8a5e, type: 3}
+  impactParticle: {fileID: 180702, guid: a7c694f0877ea874fa57e033221095c3, type: 3}
+  targetType: 0
+  icon: {fileID: 21300000, guid: 5c540e6f111b6824981504fb6f3e5110, type: 3}
+  attackSpeed: 1
+  attackRange: 10
+  attackDamage: 1
+  atkSpeedRate: 0.05
+  atkRangeRate: 0.2
+  atkDamageRate: 0.1
+  arc: 1
+  siege: 0
+  tower: 0
+  specialPower: -1
+  cost: 100
+  unlockableLevel: 5
+  purchasePrice: 500
+  exp: 0
+  description: Cannon Turrets deal decent amount of splash damage to enemies in its
+    attack's vicinity
+  baseAttackSpeed: 1
+  baseAttackRange: 10
+  baseAttackDamage: 1
+  baseAtkSpeedRate: 0.05
+  baseAtkRangeRate: 0.2
+  baseAtkDamageRate: 0.1

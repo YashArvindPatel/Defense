@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d7afaa9d997f343ada32f7a6290b71, type: 3}
+  m_Name: Spider King
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2191601534468821281, guid: c912a578da5bb504fa284f45cb763ddc, type: 3}
+  attackType: 0
+  targetType: 0
+  unitType: 0
+  icon: {fileID: 21300000, guid: b9fc6a440b1e03349b814907d28a0578, type: 3}
+  attackSpeed: 2.5
+  attackRange: 3
+  attackDamage: 35
+  hitPoints: 365
+  speed: 2.65
+  goldDrop: 162
+  description: Spider Kings are at the top of the monster chain, most fearful of
+    them all, I say burn it quick!

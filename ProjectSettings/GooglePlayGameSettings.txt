@@ -1,0 +1,9 @@
+lastUpgrade=01012
+proj.pluginVersion=0.10.12
+proj.AppId=708324177145
+and.BundleId=com.Blingames.ProceduralTD
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e708324177145%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.Blingames.ProceduralTD%3c%2fstring%3e%0d%0a++%3c%21--achievement+Biome+Conqueror+-++Grasslands--%3e%0d%0a++%3cstring+name%3d%22achievement_biome_conqueror___grasslands%22+translatable%3d%22false%22%3eCgkI-emk284UEAIQAA%3c%2fstring%3e%0d%0a++%3c%21--achievement+Biome+Conqueror+-++Snowlands--%3e%0d%0a++%3cstring+name%3d%22achievement_biome_conqueror___snowlands%22+translatable%3d%22false%22%3eCgkI-emk284UEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Biome+Conqueror+-+Dunes--%3e%0d%0a++%3cstring+name%3d%22achievement_biome_conqueror__dunes%22+translatable%3d%22false%22%3eCgkI-emk284UEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+No+More+A+Beginner--%3e%0d%0a++%3cstring+name%3d%22achievement_no_more_a_beginner%22+translatable%3d%22false%22%3eCgkI-emk284UEAIQBA%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=708324177145-bc06psrf2q4a1vb6541pgl8mo79nrta0.apps.googleusercontent.com
+android.SetupDone=true

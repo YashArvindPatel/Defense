@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d7afaa9d997f343ada32f7a6290b71, type: 3}
+  m_Name: Seed
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2338198198644825801, guid: f59269356b33a1442a6396ecc35a3123, type: 3}
+  attackType: 0
+  targetType: 0
+  unitType: 0
+  icon: {fileID: 21300000, guid: 67663fdd5bf467245a2a4efd3095e22a, type: 3}
+  attackSpeed: 0.4
+  attackRange: 1.5
+  attackDamage: 1.2
+  hitPoints: 100
+  speed: 2
+  goldDrop: 40
+  description: Seeds are a cuter version of mushrooms, they are known for being sturdier
+    in their base forms
